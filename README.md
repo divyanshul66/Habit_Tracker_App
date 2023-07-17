@@ -24,5 +24,5 @@ $ http://localhost:9000
 
 
 
-**Pic of the project:**
+# Pic of the project
 ![app](https://github.com/divyanshul66/Habit_Tracker_App/assets/119027160/43d26bfb-7da8-47ce-a089-d2c17cf6235d)
