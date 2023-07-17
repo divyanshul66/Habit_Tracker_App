@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(20,27,65);
+  background-size: cover;
+  overflow-y: scroll;
+}
+
+#header-div {
+  width: 100%;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#header-div button {
+  width: 30%;
+  height: 75%;
+  font-size: 35px;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  margin-left: 40px;
+  background-color:rgb(82,184,219);
+}
+#header-div a {
+  color: white;
+  text-decoration: none;
+}
+
+#habits-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 2%;
+}
+#habits-div #user-habits {
+  width: 80%;
+  background-color:RGB(210 210 212);
+  height: 18vh;
+  display: flex;
+  align-items: center;
+  padding: 0 1%;
+  box-sizing: border-box;
+  margin-bottom: 2%;
+}
+#habits-div #user-habits h4 {
+  color: #37737E;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+#habits-div #user-habits div {
+  width: 16%;
+  font-size: 20px;
+  padding-bottom: 2%;
+}
+#habits-div #user-habits button {
+  width: 14%;
+  height: 3vh;
+  font-size: 25px;
+  border-radius: 50px;
+  border: none;
+  margin-right: 4%;
+}
