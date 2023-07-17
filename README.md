@@ -17,5 +17,12 @@ c. Grey - Not Started
 
 6. If we change the status of our habit for the current date it is also reflected on the daily view page.
 
+7. Clone this repository using the following command: 
+
+8. Open the application in your web browser by visiting the following URL:
+$ http://localhost:9000
+
+
+
 **Pic of the project:**
 ![app](https://github.com/divyanshul66/Habit_Tracker_App/assets/119027160/43d26bfb-7da8-47ce-a089-d2c17cf6235d)
