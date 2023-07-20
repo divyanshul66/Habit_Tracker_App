@@ -21,7 +21,9 @@ c. Grey - Not Started
 
 8. Project demo video Link:
 
-9. Open the application in your web browser by visiting the following URL:
+9. first write nodemon index.js then follow the step 10. 
+
+10. Open the application in your web browser by visiting the following URL:
 $ http://localhost:9000
 
 
