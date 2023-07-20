@@ -20,7 +20,7 @@ c. Grey - Not Started
 7. You can see the website live at: https://divyanshul66.github.io/Habit_Tracker_App but
    if you want to run the application then download zip file open it and follow step 10.
 
-9. Project demo video Link:
+9. Project demo video Link: https://drive.google.com/file/d/1HKqTb-bOBt3XKY-upGO_QC_lqF0ospa-/view?usp=sharing
 
 10. Write nodemon index.js in terminal then follow the step 11. 
 
