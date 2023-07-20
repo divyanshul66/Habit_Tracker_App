@@ -17,13 +17,14 @@ c. Grey - Not Started
 
 6. If we change the status of our habit for the current date it is also reflected on the daily view page.
 
-7. You can see the website live at: https://divyanshul66.github.io/Habit_Tracker_App
+7. You can see the website live at: https://divyanshul66.github.io/Habit_Tracker_App but
+   if you want to run the application then download zip file open it and follow step 10.
 
-8. Project demo video Link:
+9. Project demo video Link:
 
-9. first write nodemon index.js then follow the step 10. 
+10. Write nodemon index.js in terminal then follow the step 11. 
 
-10. Open the application in your web browser by visiting the following URL:
+11. Open the application in your web browser by visiting the following URL:
 $ http://localhost:9000
 
 
